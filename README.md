@@ -2,6 +2,7 @@
 Powerbi Dashboard
 
 🌟 Welcome to the Ecommerce Adventure!
+
 This project is all about making sales data easy (and fun!) to explore. Built with Power BI, it turns complex numbers into clear stories that any business can use to grow smarter and faster.
 
 🔹 What You’ll Discover
